@@ -1,2 +1,2 @@
 # Demo-Repo
-First GitHub Repository
+First Git Repository
